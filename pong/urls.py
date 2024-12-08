@@ -4,3 +4,4 @@ from .views import ping
 urlpatterns = [
     path('ping/', ping, name='ping'),
 ]
+
