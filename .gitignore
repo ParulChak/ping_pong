@@ -1,0 +1,14 @@
+# Django-specific
+*.pyc
+__pycache__/
+*.log
+db.sqlite3
+*.env
+/static/
+
+# 🚀 IDE and Editor Files
+.idea/                       # PyCharm
+.vscode/                     # VSCode settings
+*.iml                        # IntelliJ IDEA
+*.sublime-*                   # Sublime Text project files
+*.code-workspace              # VSCode workspace
